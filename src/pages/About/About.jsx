@@ -9,15 +9,15 @@ export default function About() {
                 </div>
 
                 <div className="about-content-section">
-                    <h1 className="about-title">About the Wanderer</h1>
+                    <h1 className="about-title">About Mantavya</h1>
                     <p className="about-lead">
-                        I believe that travel is more than just seeing new places; it's about shifting your perspective and discovering who you are when you're away from the familiar.
+                        Mantavya is my commentary on topics which are of interest to me and my audience. It will be a straightforward and honest blog. Here I share my thoughts and experiences on a wide range of topics.
                     </p>
                     <p className="about-text">
-                        Welcome to Wanderer's Journal. My name is Mantavya, and I've been traveling the world for over a decade. What started as a gap year adventure turned into a lifelong passion for storytelling and photography.
+                        Welcome to Mantavya. My name is Vidyut Bhaskar, and I've been a Industry Consultant and an Engineer from heart. I always feel world need better Scientists and Engineers who are human at heart to make the world a better place.
                     </p>
                     <p className="about-text">
-                        Through this blog, I aim to share not just the "where" and "how" of travel, but the "why". My guides are designed to help you find the hidden gems, eat like a local, and travel in a way that is respectful and sustainable.
+                        Through this blog, I aim to share not just the "where" and "how" of topics, but the "why". My guides are designed to help you find the hidden gems, eat like a local, and travel in a way that is respectful and sustainable.
                     </p>
 
                     <div className="about-stats mt-2">
